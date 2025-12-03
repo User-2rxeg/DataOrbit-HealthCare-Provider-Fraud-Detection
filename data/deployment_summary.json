@@ -1,10 +1,10 @@
 {
-  "best_model": "Random_Forest",
-  "f1_score": 0.7011494252873564,
-  "precision": 0.8356164383561644,
-  "recall": 0.6039603960396039,
+  "best_model": "XGBoost",
+  "f1_score": 0.7128712871287128,
+  "precision": 0.7128712871287128,
+  "recall": 0.7128712871287128,
   "recommended_threshold": 0.5,
-  "deployment_date": "2025-12-02",
+  "deployment_date": "2025-12-03",
   "total_features": 33,
   "training_size": 4328,
   "test_size": 1082
